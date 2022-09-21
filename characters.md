@@ -10,9 +10,7 @@ When adding a new character let us know a little about them, including:
 
 
 ## Vitalik 
-![Vitalik](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vitalik_Buterin_TechCrunch_London_2015_%28cropped%29.jpg/500px-Vitalik_Buterin_TechCrunch_London_2015_%28cropped%29.jpg | width=100)
 A 28 year old programmer. Digital nomad, talks about Ethereum.
 
 ## Luka Dončić
-![Luka](https://upload.wikimedia.org/wikipedia/commons/6/6c/Luka_Doncic_2021_%28cropped%29.jpg | width=100)
 Luka Dončić is a Slovenian professional basketball player for the Dallas Mavericks of the National Basketball Association. He also represents the Slovenian national team. Lives in Dallas TX
