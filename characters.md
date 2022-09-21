@@ -14,3 +14,7 @@ A 28 year old programmer. Digital nomad, talks about Ethereum.
 
 ## Luka Dončić
 Luka Dončić is a Slovenian professional basketball player for the Dallas Mavericks of the National Basketball Association. He also represents the Slovenian national team. Lives in Dallas TX
+
+
+## Marko H. 
+Marko is a computer science engineer. He loves punk music and even has a dream of having his own punk band one day. 
