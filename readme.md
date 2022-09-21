@@ -8,6 +8,7 @@
 
 ## Setup a Github Account
 1. Create an account if you don't have one already.
+ 
 
 ## DAOHaus
 
